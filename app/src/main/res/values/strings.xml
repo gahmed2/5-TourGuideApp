@@ -1,0 +1,153 @@
+<!--
+  ~ PROJECT LICENSE
+  ~
+  ~ This project was submitted by Gehad Ahmed as part of the Nanodegree At Udacity.
+  ~
+  ~ As part of Udacity Honor code, your submissions must be your own work, hence
+  ~ submitting this project as yours will cause you to break the Udacity Honor Code and the suspension of your account.
+  ~
+  ~ Me, the author of the project, allow you to check the code as a reference, but if you submit it, it's your own responsibility if you get expelled.
+  ~
+  ~ Copyright (c) 2018 Gehad Ahmed
+  ~
+  ~ Besides the above notice, the following license applies and this license notice must be included in all works derived from this project.
+  ~
+  ~ MIT License
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Cairo Tour Guide</string>
+
+    <!--Tabs Titles-->
+    <string name="category_Attractions">Historic</string>
+    <string name="category_Parks">Parks</string>
+    <string name="category_Restaurants">Diners</string>
+    <string name="category_Activities">To-Do</string>
+
+    <!--Attractions Titles, Descriptions and Addresses-->
+    <string name="Attr1_title">The Great Pyramids of Giza</string>
+    <string name="Attr1_Descrp">The Great Pyramid of Giza is a defining symbol
+        of Egypt and the last of the ancient Seven Wonders of the World.
+        It is located on the Giza plateau near the modern city of Cairo and was
+        built over a twenty-year period during the reign of the king Khufu.</string>
+    <string name="Attr1_Address">Al-Haram, Giza, Egypt</string>
+
+    <string name="Attr2_title">The Egyptian Museum</string>
+    <string name="Attr2_Descrp">The Egyptian Museum is home to an extensive
+        collection of ancient Egyptian antiquities. It has 120,000 items,
+        with a representative amount on display, the remainder in storerooms.
+        The edifice is one of the largest museums in the region.</string>
+    <string name="Attr2_Address">Qasr an Nile, Cairo, Egypt</string>
+
+    <string name="Attr3_title">The Saladin Citadel</string>
+    <string name="Attr3_Descrp">i.	The Saladin Citadel of Cairo is a medieval
+        Islamic fortification in Cairo, Egypt. The location, on Mokattam hill
+        near the center of Cairo, was once famous for its fresh breeze and
+        grand views of the city. It is now a preserved historic site, with mosques and museums.
+        In 1976, it was proclaimed by UNESCO as a part of the World Heritage Site.</string>
+    <string name="Attr3_Address">Qesm Al Khalifah, Cairo, Egypt</string>
+
+    <string name="Attr4_title">Sultan Hassan Mosque</string>
+    <string name="Attr4_Descrp">i.	The Sultan Hassan Mosque is a massive mosque and school
+        located in the Old city of Cairo, it was built during the Mamluk Islamic era in Egypt.
+        At the time of construction the mosque was considered remarkable for its fantastic size
+        and innovative architectural components. </string>
+    <string name="Attr4_Address">El-Darb El-Ahmar, Cairo, Egypt</string>
+
+    <!--Parks Titles, Descriptions and Addresses-->
+    <string name="Park1_title">Al-Azhar Park</string>
+    <string name="Park1_Descrp">Al-Azhar Park is a public park located in Cairo, Egypt.
+        Among several honors, this park is listed as one of the world\'s
+        sixty great public spaces by the Project for Public Spaces (PPS).
+        It’s commanding stunning panoramic views of the world's most intriguing city.
+        Al-Azhar Park offers every visitor a glimpse into the captivating past. </string>
+    <string name="Park1_Address">El-Darb El-Ahmar, Cairo, Egypt</string>
+
+    <string name="Park2_title">Japanese Garden</string>
+    <string name="Park2_Descrp">The Japanese gardens are a feature of the town (Helwan).
+        They must have been laid out years ago but they are still lovely containing
+        as they do a number of fish ponds, numerous walks which are surmounted by arbours,
+        which are or rather were probably used as tea garden shelters from the sun</string>
+    <string name="Park2_Address">Fayzi St., Helwan, Cairo, Egypt</string>
+
+    <string name="Park3_title">International Park</string>
+    <string name="Park3_Descrp">This park has International in its name because some
+        of its flowers, trees, and animals originate from different countries around the world.
+        One of its entrances has flags of the countries that are represented in the garden.</string>
+    <string name="Park3_Address">Nasr City, Cairo, Egypt</string>
+
+    <string name="Park4_title">Gabalaya Garden</string>
+    <string name="Park4_Descrp">The Aquarium Grotto Garden—also called El Gabalaya Garden
+        after the name of the street where it is located Unique for its architectural beauty,
+        the garden’s formations are made of clay to look like fish gills. The Aquarium Grotto Garden
+        has many underground grottoes that used to host various unique types of
+        fish from the Nile and other places.</string>
+    <string name="Park4_Address">Al-Gabalayah, Zamalek, Giza, Egypt</string>
+
+    <!--Restaurants Titles, Descriptions and Addresses-->
+    <string name="Rest1_title">Chili’s Nile City</string>
+    <string name="Rest1_Descrp">i.	Chili\'s Grill is an American casual dining restaurant chain
+        that features Tex-Mex-style cuisine. You can enjoy having your lunch/dinner
+        while enjoying the fabulous view of the Nile river and the nice atmosphere.</string>
+    <string name="Rest1_Address">Nile City, Zamalek, Cairo, Egypt</string>
+
+    <string name="Rest2_title">Bab Al-Qasr Kempinski</string>
+    <string name="Rest2_Descrp">An oriental cuisine infused with Egyptian and Levant flavours
+        and subtle combination of spices. Bab Al Qasr sets the stage for an authentic dinner
+        in ambient surroundings, accented with belly dance performances on selected nights.</string>
+    <string name="Rest2_Address">First Settlement, Cairo, Egypt</string>
+
+    <string name="Rest3_title">Sheikh Al-Arab Village</string>
+    <string name="Rest3_Descrp">Above the central plateau of Al-Mokattam mountain, you can enjoy
+        the grilled and barbecued meat and chicken made by an innovative way taken from
+        the Bedouin people called "Al-Mandi"</string>
+    <string name="Rest3_Address">Central plateau, Al-Mokattam, Cairo, Egypt</string>
+
+    <string name="Rest4_title">Al-Dahan </string>
+    <string name="Rest4_Descrp">You can enjoy the variety of Grilled meat and chickens along side
+        the great atmosphere in the heart of the historical places and mosques</string>
+    <string name="Rest4_Address">El-Gamaleya, Cairo, Egypt</string>
+
+    <!--Activities Titles, Descriptions and Addresses-->
+    <string name="Act1_title">Nile Cruise</string>
+    <string name="Act1_Descrp">You can enjoy having a cruise in the Nile river and watching the
+    monuments like Cairo Tower with some fresh air and nice atomsphere</string>
+    <string name="Act1_Address">Qasr an Nile, Cairo, Egypt</string>
+
+    <string name="Act2_title">Sandboarding</string>
+    <string name="Act2_Descrp">Sandboarding is a boardsport and extreme sport. It is a recreational
+        activity and takes place on sand dunes. It involves riding across or down a dune while standing
+        with both feet strapped to a board. Sandboarding can also be practised sitting down
+        or lying on the belly or the back. </string>
+    <string name="Act2_Address">Gaber Ibn Hayan St., Dokki, Giza, Egypt</string>
+
+    <string name="Act3_title">Escape Room</string>
+    <string name="Act3_Descrp">Like Crystal Maze in the 90’s, our rooms will provide
+        an interactive experience where teams race against time to ESCAPE the room by finding clues
+        based on various scenarios to solve live puzzles within 60 minutes. We have designed
+        the experience to appeal to different age groups and all backgrounds.</string>
+    <string name="Act3_Address">Heliopolis, Cairo, Egypt</string>
+
+    <string name="Act4_title">Bubble Football</string>
+    <string name="Act4_Descrp">A new funny version of Football games, as you wear a huge
+        transparent plastic ball along with your team and start bumping and bouncing
+        with a lot of laughing.</string>
+    <string name="Act4_Address">Sheraton, Cairo, Egypt</string>
+</resources>
